@@ -1,4 +1,5 @@
 # Sentiment Analysis on COVID-19 Tweets Using Machine Learning
+![OUTPUT](https://github.com/user-attachments/assets/fcf7b792-21d1-433c-9fb8-946b3f1368ce)
 
 ## Project Overview
 
